@@ -24,7 +24,7 @@ nav_order: 1
 
 
 ### Classroom
-  - (W1-2) Dept. of Civil & Environmental Engineering 1211호
+  - (W1-2) Dept. of Civil & Environmental Engineering 1211
 
 
 ### Lab
