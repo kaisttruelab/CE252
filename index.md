@@ -31,16 +31,16 @@ Seyun Kim
 - office hours: (TBD) or by appointment
 
 
-### Class time
- - Mon: 13:00~14:30
- - Wed: 13:00~14:30
-
-
 ### Classroom
   - (W1-2) Dept. of Civil & Environmental Engineering 1211
 
 
-### Lab
+### Class time
+ - Mon: 13:00~14:00
+ - Wed: 13:00~14:00
+
+
+### Lab time
  - 1 hour lab (TBD)
 
 
