@@ -46,11 +46,7 @@ Seyun Kim
 
 ### Course	Description
 
-Introductory	 course	 on	 data science	with	 focus	 on	Civil	 Engineering	applications.	 The	
-course	if	based	on	UC	Berkeley	Data	Science	course	Data	8.	The	course	will	cover	basic
-knowledge	 required	 for	 advanced data	 science	 including data	 literacy, probability,	
-statistical inference,	 modeling	 with	 regression.	 Prior	 training	 in	 basic	 engineering	
-mathemtics is	required.	Coding	experience is helpful	but	not	required.
+Introductory course on data science with a focus on Civil Engineering applications. The course is based on UC Berkeley Data Science course Data 8. The course will cover basic knowledge required for advanced data science, including data literacy, probability, statistical inference, and modeling with regression. Prior training in basic engineering mathematics is required. Coding experience is helpful but not required.
 
 
 
@@ -58,7 +54,7 @@ mathemtics is	required.	Coding	experience is helpful	but	not	required.
 
 | This week            | - We plan to conduct practical and classroom related surveys. <br /> - Please fill out the Google form below to complete the survey. (Until Sep xx). <br /> - Link: |
 | Last week            |  |
-| Past Announcements   | - Go here: [Announcements](https://gwanghwanseong.github.io/ce252-trial6/index6.html) |
+| Past Announcements   | - Go here: [Announcements](https://kaisttruelab.github.io/CE252/index6.html) |
 
 
 
