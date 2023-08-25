@@ -5,18 +5,31 @@ nav_order: 1
 ---
 
 # **CE252 Class: Introduction to Data Science for Civil Engineers**
+
 ## KAIST, Fall 2023
 {: .text-grey-dk-200}
 
+
 ### Instructors: Yoonjin Yoon, Seyun Kim
+
+
+Yoonjin Yoon
 - email: yoonjin@kaist.ac.kr
 - office: W16 410
 - office hours: Wed. 15:00 ~ 16:00 or by appointment
+
+
+Seyun Kim
+- email: whataud@kaist.ac.kr
+- office: W16 412
+- office hours: (TBD) or by appointment
+
 
 ### Teaching Assistants: Hyeyeong Lee (Head TA), Gwanghwan Seong, Junghee Kim
 - email: leehy305@kaist.ac.kr, skhshk@kaist.ac.kr, junghee@kaist.ac.kr
 - office: W16 407
 - office hours: (TBD) or by appointment
+
 
 ### Class time
  - Mon: 13:00~14:30
